@@ -1,16 +1,13 @@
-# testeapilits
+Flutter api list 
 
-A new Flutter project.
+"http: ^0.13.3" 
 
-## Getting Started
+sdk: ">=2.12.0 <3.0.0"
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/53713690/120005937-c5e0f080-bfae-11eb-9036-54233520f3a4.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/53713690/120006158-fd4f9d00-bfae-11eb-95f4-15113a4c870f.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
